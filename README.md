@@ -1,57 +1,62 @@
-# Hi👋 I'm V Naveen Kumar
+# 👋 Hi, I'm V Naveen Kumar
 
-🎓 Final-year B.Tech (Computer Science and Engineering) student at Avanthi Institute of Engineering and Technology, JNTUH (Graduating 2025)
+🎓 I'm a final-year B.Tech Computer Science and Engineering student at **Avanthi Institute of Engineering and Technology (JNTUH)**, graduating in 2025 with a strong academic track (80%).
 
-🚀 Aspiring Software Engineer passionate about Python development, open-source projects, and innovative problem-solving.
-
-💡 I enjoy building practical projects like **Video Transcript Summarizer**, and love exploring AI, automation, and backend development.
+🔍 I'm actively seeking an entry-level **Software Engineer** role where I can apply my analytical thinking, programming knowledge, and passion for learning to contribute meaningfully to the team.
 
 ---
 
-## 🛠️ Technical Skills
+## 🔧 Technical Skills
 
-- **Languages**: Python, C  
-- **Web Technologies**: HTML, CSS  
+- **Programming Languages**: Python, C  
+- **Web Development**: HTML, CSS  
 - **Databases**: MySQL, Microsoft Access  
-- **Tools & Platforms**: Git, GitHub, Windows OS, MS Office  
-- **Libraries & Frameworks**: Transformers, PyTorch, SentencePiece, ffmpeg, yt-dlp, pytube
+- **Tools**: Git, GitHub, MS Office Suite  
+- **Libraries & Frameworks**: Transformers, PyTorch, SentencePiece, ffmpeg, yt-dlp, pytube, openai-whisper  
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-**Intern – SIEMENS** (Apr 2024 – Jun 2024)  
-- Managed administrative and medical billing tasks  
-- Collaborated with marketing and operations teams  
-- Strengthened team collaboration and process optimization skills
+**SIEMENS (April 2024 – June 2024)**  
+*Roles: Administrator | Medical Billing Specialist | Process Associate*
+- Worked with cross-functional teams to improve operational efficiency
+- Performed administrative and billing tasks
+- Enhanced communication, task management, and problem-solving skills
 
 ---
 
-## 📌 Projects
+## 📌 Project
 
-### 🎥 Video Transcript Summarizer
-- Automatically converts video audio to text using tools like `openai-whisper`, `ffmpeg`, and `transformers`
-- Built a streamlined interface for uploading videos and receiving summarized transcripts
-- Emphasized accuracy and usability with clean, coherent summaries
-- Source code managed using Git for version control
+### 🎥 **Video Transcript Summarizer**
+A smart tool that processes videos, extracts audio, converts it to text, and generates concise summaries.
+
+- Extracts audio using `ffmpeg`, downloads videos via `yt-dlp`/`pytube`
+- Transcribes using `openai-whisper`, and summarizes using `transformers`
+- Clean and interactive interface for easy file upload and output display
+- Source control with Git for collaborative development
 
 ---
 
 ## 📈 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VNaveenKumar4545&show_icons=true&theme=tokyonight)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VNaveenKumar4545&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VNaveenKumar4545&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
-- **Email**: [vnaveenkumar4545@gmail.com](mailto:vnaveenkumar4545@gmail.com)  
-- **Phone**: +91-6305733164  
-- **Resume**: [View Resume (PDF)](https://github.com/VNaveenKumar4545/VNaveenKumar4545/blob/main/VNaveenKumarResume.pdf)  
-- **GitHub**: [github.com/VNaveenKumar4545](https://github.com/VNaveenKumar4545)
+- 📧 **Email**: [vnaveenkumar4545@gmail.com](mailto:vnaveenkumar4545@gmail.com)  
+- 📞 **Phone**: +91-6305733164  
+- 📄 **Resume**: [View Resume (PDF)](https://github.com/VNaveenKumar4545/VNaveenKumar4545/blob/main/VNaveenKumarResume.pdf)  
+- 💻 **GitHub**: [github.com/VNaveenKumar4545](https://github.com/VNaveenKumar4545)
 
 ---
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+
+
+
 
