@@ -38,12 +38,6 @@ A smart tool that processes videos, extracts audio, converts it to text, and gen
 
 ---
 
-## 📈 GitHub Stats
-
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VNaveenKumar4545&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VNaveenKumar4545&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact Me
 
