@@ -1,4 +1,4 @@
-# Hi there 👋 I'm V Naveen Kumar
+# Hi👋 I'm V Naveen Kumar
 
 🎓 Final-year B.Tech (Computer Science and Engineering) student at Avanthi Institute of Engineering and Technology, JNTUH (Graduating 2025)
 
